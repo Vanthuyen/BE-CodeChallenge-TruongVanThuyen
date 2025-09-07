@@ -22,7 +22,7 @@ for User Management.
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/your-username/BE-CodeChallenge-TruongVanThuyen.git
+    git clone https://github.com/Vanthuyen/BE-CodeChallenge-TruongVanThuyen.git
     cd problem5
     ```
 
